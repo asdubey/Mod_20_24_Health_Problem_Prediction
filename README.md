@@ -34,6 +34,8 @@ In the US about every 1 in 3 adults has pre-diabetes, and among this population 
     <img src = images/DiabetesInTheUS_Thumbnail.jpg width="1500px" height="300px"/>
 </center>
 
+[<CDC\>](https://www.cdc.gov/diabetes/about/index.html)
+
 - About 38 million adults have diabetes, and 1 in 5 of them don't know they have it.
 - Diabetes is the No. 1 cause of kidney failure, lower-limb amputations, and adult blindness.
 
