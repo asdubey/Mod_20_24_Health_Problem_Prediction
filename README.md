@@ -78,7 +78,7 @@ What methods are you using to answer the question?
 
 We will use the True Positive Rate (TPR), False Positive Rate (FPR), and the Area Under the ROC Curve (AUC-ROC) to evaluate the validity of each model. The TPR and FPR will be derived from the confusion matrix of our classifiers.
 
-SSince we expect the dataset to be imbalanced, these metrics will be more informative than accuracy. In our case, the number of people who actually have diabetes is expected to be much smaller in comparison to those who do not have disease. Relying on accuracy will result in higher score of the model but may still perform poorly in predicting the disease.
+Since we expect the dataset to be imbalanced, these metrics will be more informative than accuracy. In our case, the number of people who actually have diabetes is expected to be much smaller in comparison to those who do not have disease. Relying on accuracy will result in higher score of the model but may still perform poorly in predicting the disease.
 
 The ROC curve plots TPR (y-axis) vs. FPR (x-axis), providing a visual representation of the classifier’s performance. AUC (Area Under the Curve) is a robust metric for evaluating binary classification problems, as it quantifies the model’s ability to distinguish between classes.
 
